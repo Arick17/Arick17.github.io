@@ -1,3 +1,7 @@
+.container{
+  background-image: url("http://pamgeiser.com/wp-content/uploads/2014/01/Resume-Paper.jpg");
+  background-size: cover;
+}
 h1 {
   font-family: Palatino, 'Palatino Liontype', serif;
 }
