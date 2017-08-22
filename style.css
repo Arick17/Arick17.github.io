@@ -1,6 +1,10 @@
 #arick {
   border-bottom: 1px solid #000000;
 }
+#contact-info {
+  font-style: italic;
+}
+
 #vel {
   border-bottom: 1px solid #000000;
 }
